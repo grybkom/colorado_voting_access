@@ -10,7 +10,7 @@ The Safeguard American Voter Eligibility Act (SAVE Act) is a bill passed by the 
 - [GeoPandas](https://geopandas.org/en/stable/)
 
 # Data
-ColoradoVotingAccessDataCleaning.ipynb – Data merging, cleaning and exploration cleaning producing two datasets for analysis, county_df and location_df.
+**ColoradoVotingAccessDataCleaning.ipynb** – Data merging, cleaning and exploration cleaning producing two datasets for analysis, county_df and location_df.
 
 
 # Analysis
