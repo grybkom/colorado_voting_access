@@ -11,6 +11,25 @@ The Safeguard American Voter Eligibility Act (SAVE Act) is a bill passed by the 
 
 # Data
 **ColoradoVotingAccessDataCleaning.ipynb** – Data merging, cleaning and exploration cleaning producing two datasets for analysis, county_df and location_df.
+-	Datasets were joined on the variable ‘county’. 
+-	Most cleaning involved formatting strings to ensure consistency across datasets.
+-	The dataset for 2024 election results by Colorado county contained a MultiIndexed header resulting in the column “Total”, which represents the summation of all votes cast, also containing the label ‘Robert F. Kennedy Jr. / Nicole Shanahan’. This column was renamed “total votes”. The total votes were also summed by hand to ensure accuracy.
+-	Votes for “Kamala D. Harris / Tim Walz” were named “democrat” and votes for “Donald J. Trump / JD Vance” were named republican. 
+-	There were eight pairs of candidates represented in the dataset for 2024 election results by Colorado county with the majority of votes being for Kamala D. Harris / Tim Walz were and Donald J. Trump / JD Vance. Therefore, votes for the six other candidates were summed and represented as “other”.
+-	The DataFrame county_df contains county level data with one entry for each county. This DataFrame should be used for any population wise calculations and counts. Its features include:
+  o	county – the name of the Colorado county
+  o	registered voters – the total number of registered voters in the county
+  o	democrat – the total number of votes cast for Kamala D. Harris / Tim Walz
+  o	republican – the total number of votes cast for Donald J. Trump / JD Vance
+  o	other – the total number of votes cast for other candidates 
+  o	total votes – the total number of votes cast
+-	The DataFrame location_df contains voter site location information. This DataFrame contains the same features as county_df as well as:
+  o	X and Y – coordinates for mapping
+  o	site_type – the type of voting location (dropbox, early voting, polling location)
+  o	geocoded_address – address formatted for GeoPandas
+[! CAUTION] 
+Population and voting entries will be repeated in the DataFrame location_df if there are more than one voting site in a county, with each voting site within a county containing the same information for these variables. 
+
 
 ## Data Access
 - Polling station, dropbox and early voting location information:
