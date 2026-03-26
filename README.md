@@ -31,7 +31,7 @@ The Safeguard American Voter Eligibility Act (SAVE Act) is a bill passed by the 
 > [!CAUTION]
 > Population and voting entries will be repeated in the DataFrame location_df if there are more than one voting site in a county, with each voting site within a county containing the same information for these variables. 
 
-|<img align="left" width="320" height="240" alt="colorado_total_votes_2024" src="https://github.com/user-attachments/assets/772b86cf-988f-4c92-a5ac-642b5bba8374" />|<img align="center" width="400" height="300" alt="colorado_top_counties_total_votes_2024" src="https://github.com/user-attachments/assets/5ebfc903-aea1-4058-b225-b3332404b911" />|
+<img width="320" height="240" alt="colorado_total_votes_2024" src="https://github.com/user-attachments/assets/772b86cf-988f-4c92-a5ac-642b5bba8374" />|<img width="400" height="300" alt="colorado_top_counties_total_votes_2024" src="https://github.com/user-attachments/assets/5ebfc903-aea1-4058-b225-b3332404b911" />
 
 <img align="left" width="400" height="300" alt="colorado_bottom_counties_total_votes_2024" src="https://github.com/user-attachments/assets/1b449a06-8a61-4fbe-b3ff-398919fec71f" />
 
