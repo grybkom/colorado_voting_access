@@ -52,7 +52,7 @@ https://results.enr.clarityelections.com/CO/122598/web.345435/#/summary
 https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html
 
 # Analysis
-<img width="2200" height="900" alt="colorado_county_maps_election_results_voting_locations_population_2024" src="https://github.com/user-attachments/assets/69a1ba21-9b59-47f3-9fee-e5b9b97f601b" />
+<img width="2500" height="1000" alt="colorado_county_maps_election_results_voting_locations_population_2024" src="https://github.com/user-attachments/assets/69a1ba21-9b59-47f3-9fee-e5b9b97f601b" />
 
 # References
 ## Text
