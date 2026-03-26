@@ -28,9 +28,10 @@ The Safeguard American Voter Eligibility Act (SAVE Act) is a bill passed by the 
     -	site_type – the type of voting location (dropbox, early voting, polling location)
     -	geocoded_address – address formatted for GeoPandas
 
-[! CAUTION] 
+> [!CAUTION]
+> Negative potential consequences of an action.
 
-:warning: **Caution:**Population and voting entries will be repeated in the DataFrame location_df if there are more than one voting site in a county, with each voting site within a county containing the same information for these variables. 
+Population and voting entries will be repeated in the DataFrame location_df if there are more than one voting site in a county, with each voting site within a county containing the same information for these variables. 
 
 
 ## Data Access
