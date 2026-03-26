@@ -12,6 +12,18 @@ The Safeguard American Voter Eligibility Act (SAVE Act) is a bill passed by the 
 # Data
 **ColoradoVotingAccessDataCleaning.ipynb** – Data merging, cleaning and exploration cleaning producing two datasets for analysis, county_df and location_df.
 
+## Data Access
+- Polling station, dropbox and early voting location information:
+https://geodata.colorado.gov/datasets/0b26c8161c1e4597816b107f0dba0d15_0/explore?location=39.934750%2C-102.798471%2C6
+
+- 2024 presidential election results: 
+https://demography.dola.colorado.gov/assets/html/county.html
+
+- 2024 voting results:
+https://results.enr.clarityelections.com/CO/122598/web.345435/#/summary
+
+- Map data: 
+https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html
 
 # Analysis
 <img width="2000" height="800" alt="colorado_county_maps_election_results_voting_locations_population_2024" src="https://github.com/user-attachments/assets/69a1ba21-9b59-47f3-9fee-e5b9b97f601b" />
