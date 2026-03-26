@@ -33,7 +33,7 @@ The Safeguard American Voter Eligibility Act (SAVE Act) is a bill passed by the 
 
 <img width="400" height="400" alt="all_colorado_voting_locations" src="https://github.com/user-attachments/assets/4e41e617-7079-4d45-a1f9-a47d1d9f76fa" />
 
-<img width="320" height="300" alt="colorado_total_votes_2024" src="https://github.com/user-attachments/assets/772b86cf-988f-4c92-a5ac-642b5bba8374" /> <img width="400" height="300" alt="colorado_top_counties_total_votes_2024" src="https://github.com/user-attachments/assets/5ebfc903-aea1-4058-b225-b3332404b911" /> <img width="400" height="300" alt="colorado_bottom_counties_total_votes_2024" src="https://github.com/user-attachments/assets/1b449a06-8a61-4fbe-b3ff-398919fec71f" />
+<img width="200" height="240" alt="colorado_total_votes_2024" src="https://github.com/user-attachments/assets/772b86cf-988f-4c92-a5ac-642b5bba8374" /> <img width="300" height="260" alt="colorado_top_counties_total_votes_2024" src="https://github.com/user-attachments/assets/5ebfc903-aea1-4058-b225-b3332404b911" /> <img width="300" height="260" alt="colorado_bottom_counties_total_votes_2024" src="https://github.com/user-attachments/assets/1b449a06-8a61-4fbe-b3ff-398919fec71f" />
 
 
  
