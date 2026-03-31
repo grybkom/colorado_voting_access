@@ -8,6 +8,7 @@ The Safeguard American Voter Eligibility Act (SAVE Act) is a bill passed by the 
 - [pandas](https://pandas.pydata.org/)
 - [Matplotlib](https://matplotlib.org/)
 - [GeoPandas](https://geopandas.org/en/stable/)
+- [Shapely](https://shapely.readthedocs.io/en/stable/)
 
 # Data
 **ColoradoVotingAccessDataCleaning.ipynb** – Data merging, cleaning and exploration cleaning producing two datasets for analysis, county_df and location_df.
@@ -53,6 +54,8 @@ https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file
 
 # Analysis
 <img align="left" width="2700" height="1250" alt="colorado_county_maps_election_results_voting_locations_population_2024" src="https://github.com/user-attachments/assets/69a1ba21-9b59-47f3-9fee-e5b9b97f601b" />
+
+<img width="600" height="600" alt="colorado_county_maps_election_results_community_type_2024" src="https://github.com/user-attachments/assets/a07405e9-95f3-4437-be2f-0412048d828d" />
 
 # References
 ## Text
