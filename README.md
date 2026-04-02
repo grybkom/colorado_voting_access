@@ -11,7 +11,7 @@ The Safeguard American Voter Eligibility Act (SAVE Act) is a bill passed by the 
 - [Shapely](https://shapely.readthedocs.io/en/stable/)
 
 # Data
-**ColoradoVotingAccessDataCleaning.ipynb** – Data merging, cleaning and exploration cleaning producing two datasets for analysis, county_df and location_df.
+**ColoradoVotingAccessDataCleaning.ipynb** – Data merging, cleaning and exploration produced two datasets for analysis, county_df and location_df.
 -	Datasets were joined on the variable ‘county’. 
 -	Most cleaning involved formatting strings to ensure consistency across datasets.
 -	The dataset for 2024 election results by Colorado county contained a MultiIndexed header resulting in the column “Total”, which represents the summation of all votes cast, also containing the label ‘Robert F. Kennedy Jr. / Nicole Shanahan’. This column was renamed “total votes”. The total votes were also summed by hand to ensure accuracy.
